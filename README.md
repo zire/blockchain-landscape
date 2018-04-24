@@ -1,5 +1,7 @@
 Welcome to Blockchain Landscape Overview! This is where you can find comparison among major cryptocurrencies (Ethereum, DFINITY, EOS, NEO, Tezos and Cardano) with the latest updates from their official channels. 
 
+View it on mobile device: [https://zire.github.io/blockchain-landscape](https://zire.github.io/blockchain-landscape/).
+
 ## COMMUNITY
 
 *Numbers indicate subscribers/followers under each social media account as of `April 24, 2018`*
