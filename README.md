@@ -22,7 +22,7 @@ View it on mobile device: [https://zire.github.io/blockchain-landscape](https://
 | Platform | Developer | Token | Language | Consensus | Layer |
 | --- | --- | --- | --- | --- | --- |
 | Ethereum | Ethereum Switzerland GmbH | Ether | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) | Proof-of-Work, Casper POS| --- |
-| DFINITY | DFINITY Stiftung | DFN | [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)), [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)  | Proof-of-Stake | --- |
+| DFINITY | [DFINITY Stiftung](https://www.edi.admin.ch/edi/de/home/fachstellen/eidgenoessische-stiftungsaufsicht/stiftungsverzeichnis.exturl.html/aHR0cHM6Ly9lc3YuZGVpbW9zLmNoL0hvbWUvRm91bmRhdGlvbk/RldGFpbC8yNDc0OD9PcmRlckJ5PU5hbWUmT3JkZXI9QXNjZW5k/aW5nJlBhZ2U9MTc=.html) | DFN | [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)), [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)  | Proof-of-Stake | --- |
 | EOS.IO | [block.one](http://block.one/) | EOS| [C++](https://en.wikipedia.org/wiki/C%2B%2B), [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) | Proof-of-Stake| --- |
 | NEO | [onchain](http://www.onchain.com/en-us/) | NEO | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | Byzantine Fault Tolerance (BFT) | --- |
 | Tezos | --- | | [OCaml](https://en.wikipedia.org/wiki/OCaml) | Proof-of-Stake | --- |
@@ -52,9 +52,10 @@ White Paper
 - [Technical deck: How to Achieve Near-Instant Finality in Public Blockchains using a VRF(from Stanford PBASE, February, 2017)](https://dfinity.org/pdf-viewer/pdfs/viewer?file=../library/threshold-relay-blockchain-stanford.pdf)
 - [Algorithmic governance post: Future governance? Integrating traditional AI technology into the Blockchain Nervous System](https://medium.com/dfinity-network-blog/future-governance-integrating-traditional-ai-technology-into-the-blockchain-nervous-system-825ababf9d9)
 
-Funding
+Timeline
 
 - February 7, 2018 - [Dfinity raises $61 million for blockchain-based cloud](https://venturebeat.com/2018/02/07/dfinity-raises-61-million-for-blockchain-based-cloud/)
+- 
 
 ## EOS
 
