@@ -9,7 +9,7 @@ Welcome to Blockchain Landscape Overview! This is where you can find comparison 
 *For Github repo, the numbers xx/yy/zz indicate `Public Team Members`/`# of Public Repos`/`Highest Number of Stars`*
 
 | Website | Reddit | Medium | Twitter | Telegram | Github | Facebook |  
-| --- | --- | --- | --- | --- | --- | --- |--- |
+| --- | --- | --- | --- | --- | --- | --- |
 | [Ethereum](https://www.ethereum.org/) | [354,226](https://www.reddit.com/r/ethereum/) | [Blog](https://blog.ethereum.org/) | [388K](https://twitter.com/ethereum) | N.A. | [38 / 157 / 16.9K](https://github.com/ethereum) | [146,076](https://www.facebook.com/ethereumproject)
 | [DFINITY](https://dfinity.org/) | [5,208](http://reddit.com/r/dfinity) | [4.3K](http://medium.com/dfinity) | [25.2K](http://twitter.com/dfinity) | [39,883](http://t.me/dfinity) | [18 / 31 / 57](https://github.com/dfinity) | N.A. |
 | [EOS](https://eos.io/)| [44,984](https://www.reddit.com/r/eos/) | [12.1K](https://medium.com/eosio) | [138K](https://twitter.com/eos_io)| [46,142](https://t.me/EOSProject) | [0 / 24 / 6,252](https://github.com/EOSIO) | [11,385](https://www.facebook.com/eosblockchain) |
