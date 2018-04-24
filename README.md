@@ -8,14 +8,25 @@ Welcome to Blockchain Landscape Overview! This is where you can find comparison 
 
 *For Github repo, the numbers xx/yy/zz indicate `Public Team Members`/`# of Public Repos`/`Highest Number of Stars`*
 
-| Website | Reddit | Medium | Twitter | Telegram | Github | Facebook |  
-| --- | --- | --- | --- | --- | --- | --- |
+| Website | Reddit | Medium | Twitter | Telegram | Github | Facebook | wiki |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | [Ethereum](https://www.ethereum.org/) | [354,226](https://www.reddit.com/r/ethereum/) | [Blog](https://blog.ethereum.org/) | [388K](https://twitter.com/ethereum) | N.A. | [38 / 157 / 16.9K](https://github.com/ethereum) | [146,076](https://www.facebook.com/ethereumproject)
-| [DFINITY](https://dfinity.org/) | [5,208](http://reddit.com/r/dfinity) | [4.3K](http://medium.com/dfinity) | [25.2K](http://twitter.com/dfinity) | [39,883](http://t.me/dfinity) | [18 / 31 / 57](https://github.com/dfinity) | N.A. |
-| [EOS](https://eos.io/)| [44,984](https://www.reddit.com/r/eos/) | [12.1K](https://medium.com/eosio) | [138K](https://twitter.com/eos_io)| [46,142](https://t.me/EOSProject) | [0 / 24 / 6,252](https://github.com/EOSIO) | [11,385](https://www.facebook.com/eosblockchain) |
-| [NEO](https://neo.org/) | [90,567](https://www.reddit.com/r/NEO/) | [951](https://medium.com/@NEO_Council) | [310K](https://twitter.com/neo_blockchain) | [593](https://t.me/NEOblockchain) | [8 / 15 / 2,297](https://github.com/neo-project) | [28,865](https://www.facebook.com/NEOSmartEcon/)
+| [DFINITY](https://dfinity.org/) | [5,208](http://reddit.com/r/dfinity) | [4.3K](http://medium.com/dfinity) | [25.2K](http://twitter.com/dfinity) | [39,883](http://t.me/dfinity) | [18 / 31 / 57](https://github.com/dfinity) | N.A. | N.A. |
+| [EOS](https://eos.io/)| [44,984](https://www.reddit.com/r/eos/) | [12.1K](https://medium.com/eosio) | [138K](https://twitter.com/eos_io)| [46,142](https://t.me/EOSProject) | [0 / 24 / 6,252](https://github.com/EOSIO) | [11,385](https://www.facebook.com/eosblockchain) | [wiki](https://en.wikipedia.org/wiki/EOS.IO) |
+| [NEO](https://neo.org/) | [90,567](https://www.reddit.com/r/NEO/) | [951](https://medium.com/@NEO_Council) | [310K](https://twitter.com/neo_blockchain) | [593](https://t.me/NEOblockchain) | [8 / 15 / 2,297](https://github.com/neo-project) | [28,865](https://www.facebook.com/NEOSmartEcon/) | [wiki](https://en.wikipedia.org/wiki/NEO_(cryptocurrency)) |
 | [Tezos](https://tezos.com/) | [7,801](https://www.reddit.com/r/tezos/) | [1.2K](https://medium.com/tezos)| [39.5K](https://twitter.com/tez0s) | [2,104](https://t.me/tezosplatform) | [1 / 10 / 1,143](https://github.com/tezos) | N.A.|
-| [Cardano](https://www.cardano.org/en/home/) | [62,370](https://www.reddit.com/r/cardano/) | N.A. | [131K](https://twitter.com/CardanoStiftung) | [5,590](https://t.me/CardanoAnnouncements) | [23 / 87 / 2,390](https://github.com/input-output-hk) | [20,609](https://en-gb.facebook.com/CardanoFoundation/)
+| [Cardano](https://www.cardano.org/en/home/) | [62,370](https://www.reddit.com/r/cardano/) | N.A. | [131K](https://twitter.com/CardanoStiftung) | [5,590](https://t.me/CardanoAnnouncements) | [23 / 87 / 2,390](https://github.com/input-output-hk) | [20,609](https://en-gb.facebook.com/CardanoFoundation/)| [wiki](https://en.wikipedia.org/wiki/Cardano_(platform)) |
+
+## TECHNICAL STACKS
+
+| Platform | Developer | Token | Language | Consensus | Layer |
+| --- | --- | --- | --- | --- | --- |
+| Ethereum | Ethereum Switzerland GmbH | Ether | [Go](https://en.wikipedia.org/wiki/Go_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) | Proof-of-Work, Casper POS| --- |
+| DFINITY | DFINITY Stiftung | DFN | [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)), [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)  | Proof-of-Stake | --- |
+| EOS.IO | [block.one](http://block.one/) | EOS| [C++](https://en.wikipedia.org/wiki/C%2B%2B), [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) | Proof-of-Stake| --- |
+| NEO | [onchain](http://www.onchain.com/en-us/) | NEO | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | Byzantine Fault Tolerance (BFT) | --- |
+| Tezos | --- | | Michelson | Proof-of-Stake | --- |
+| Cardano | --- | ADA | [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)) | Proof-of-Stake (Ouroboros) | Cardano Settlement Layer (CSL) | 
 
 
 ## Ethereum
@@ -92,3 +103,21 @@ White Paper
 
 
 ## READING LIST
+
+Here is a collection of some landmark articles written on blockchain and cryptocurrencies. 
+
+- November 3, 2016 - Fred Ehrsam - [How to Raise Money on a Blockchain with a Token](https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa)
+- October 10, 2016 - Vitalik Buterin - [Devcon2: Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4&t=22s)
+- September 1, 2016 - Brian Armstrong - [How Digital Currency Will Change The World](https://blog.coinbase.com/how-digital-currency-will-change-the-world-310663fe4332)
+- March 9, 2014 - Naval Ravikant - [The Bitcoin Model for Crowdfunding](https://startupboy.com/2014/03/09/the-bitcoin-model-for-crowdfunding/)
+- January 21, 2014 - Marc Andreessen - [Why Bitcoin Matters](https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/)
+- November 7, 2013 - Naval Ravikant - [Bitcoin – The Internet of Money](https://startupboy.com/2013/11/07/bitcoin-the-internet-of-money/)
+- Late 2013 - Vitalik Buterin - [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- December 27, 2008 - Nick Szabo - [Bit Gold](http://unenumerated.blogspot.com/2005/12/bit-gold.html)
+- October, 2008 - Satoshi Nakamoto - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+- 1997 - Nick Szaobo - [The God Protocol](http://nakamotoinstitute.org/the-god-protocols/)
+
+## KEY SITES
+
+- [Vitalk Buterin's website](https://vitalik.ca/)
+- [Coindesk](https://www.coindesk.com/)
