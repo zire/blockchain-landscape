@@ -1,6 +1,6 @@
 Welcome to Blockchain Landscape Overview! This is where you can find comparison among major cryptocurrencies (Ethereum, DFINITY, EOS, NEO, Tezos and Cardano) with the latest updates from their official channels. 
 
-## SOCIAL MEDIA
+## COMMUNITY
 
 *Numbers indicate subscribers/followers under each social media account as of `April 24, 2018`*
 
@@ -134,5 +134,5 @@ Here is a collection of some landmark articles written on blockchain and cryptoc
 
 ## KEY SITES
 
-- [Vitalk Buterin's website](https://vitalik.ca/)
+- [Vitalik Buterin's personal website](https://vitalik.ca/)
 - [Coindesk](https://www.coindesk.com/)
