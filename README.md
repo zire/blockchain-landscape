@@ -17,9 +17,8 @@ Welcome to Blockchain Landscape Overview! This is where you can find comparison 
 | [Tezos](https://tezos.com/) | [7,801](https://www.reddit.com/r/tezos/) | [1.2K](https://medium.com/tezos)| [39.5K](https://twitter.com/tez0s) | [2,104](https://t.me/tezosplatform) | [1 / 10 / 1,143](https://github.com/tezos) | N.A.|
 | [Cardano](https://www.cardano.org/en/home/) | [62,370](https://www.reddit.com/r/cardano/) | N.A. | [131K](https://twitter.com/CardanoStiftung) | [5,590](https://t.me/CardanoAnnouncements) | [23 / 87 / 2,390](https://github.com/input-output-hk) | [20,609](https://en-gb.facebook.com/CardanoFoundation/)
 
-## COMPARISON
 
-### Ethereum
+## Ethereum
 
 >Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference.
 
@@ -27,7 +26,7 @@ White Paper
 
 - [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper)
 
-### DFINITY
+## DFINITY
 
 >A blockchain computer with unlimited capacity, incredible performance and algorithmic governance, shared by the world — Cloud 3.0
 
@@ -42,8 +41,7 @@ White Paper
 - [Technical deck: How to Achieve Near-Instant Finality in Public Blockchains using a VRF(from Stanford PBASE, February, 2017)](https://dfinity.org/pdf-viewer/pdfs/viewer?file=../library/threshold-relay-blockchain-stanford.pdf)
 - [Algorithmic governance post: Future governance? Integrating traditional AI technology into the Blockchain Nervous System](https://medium.com/dfinity-network-blog/future-governance-integrating-traditional-ai-technology-into-the-blockchain-nervous-system-825ababf9d9)
 
-
-### EOS
+## EOS
 
 >The most powerful infrastructure for decentralized applications
 
@@ -51,7 +49,7 @@ White Paper
 
 - [EOS.IO Technical White Paper v2, March 16, 2018](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
 
-### NEO
+## NEO
 
 >NEO is a non-profit community-based blockchain project that utilizes blockchain technology and digital identity to digitize assets, to automate the management of digital assets using smart contracts, and to realize a "smart economy" with a distributed network.
 
@@ -62,7 +60,7 @@ White Paper
 - [A Byzantine Fault Tolerance Algorithm for Blockchain](http://docs.neo.org/en-us/basic/consensus/whitepaper.html)
 - [Consensus Diagram](http://docs.neo.org/en-us/basic/consensus/consensus.html)
 
-### Tezos
+## Tezos
 
 >Tezos is a distributed consensus platform with meta-consensus capability
 
@@ -74,7 +72,7 @@ White Paper
 - [Michelson: the language of Smart Contracts in Tezos](http://doc.tzalpha.net/whitedoc/michelson.html)
 - [Proof-of-stake in Tezos](http://doc.tzalpha.net/whitedoc/proof_of_stake.html)
 
-### Cardano
+## Cardano
 
 >Cardano is a decentralised public blockchain and cryptocurrency project and is fully open source. Cardano is developing a smart contract platform which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers
 
@@ -88,5 +86,9 @@ White Paper
 - [Sidechains – Non-interactive proofs of proof-of-work](https://iohk.io/research/papers/?__hstc=64163184.af1e76a792d6f7a42e045e253c8e1f1f.1523540466181.1523867313666.1524546750751.3&__hssc=64163184.2.1524546750751&__hsfp=2239698131#67CHCNP8)
 
 ## INDUSTRY REPORTS
+
+- [2018, January - U.S.Department of Commerce, National Institute of Standards and Technology - Blockchain Technology Review](https://csrc.nist.gov/CSRC/media/Publications/nistir/8202/draft/documents/nistir8202-draft.pdf)
+- [2017, Q4 - Coindesk - State of Blockchain 2018](https://www.coindesk.com/research/state-blockchain-2018/)
+
 
 ## READING LIST
