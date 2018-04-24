@@ -23,7 +23,7 @@ Welcome to Blockchain Landscape Overview! This is where you can find comparison 
 | DFINITY | DFINITY Stiftung | DFN | [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)), [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)  | Proof-of-Stake | --- |
 | EOS.IO | [block.one](http://block.one/) | EOS| [C++](https://en.wikipedia.org/wiki/C%2B%2B), [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) | Proof-of-Stake| --- |
 | NEO | [onchain](http://www.onchain.com/en-us/) | NEO | [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | Byzantine Fault Tolerance (BFT) | --- |
-| Tezos | --- | | Michelson | Proof-of-Stake | --- |
+| Tezos | --- | | [OCaml](https://en.wikipedia.org/wiki/OCaml) | Proof-of-Stake | --- |
 | Cardano | --- | ADA | [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)) | Proof-of-Stake (Ouroboros) | Cardano Settlement Layer (CSL) | 
 
 
