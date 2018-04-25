@@ -1,4 +1,4 @@
-Welcome to Blockchain Landscape Overview! This is where you can find comparison among major cryptocurrencies (Ethereum, DFINITY, EOS, NEO, Tezos and Cardano) with the latest updates from their official channels. 
+Welcome to Blockchain Landscape Overview! This is where you can find comparison among second-to-third generation cryptocurrencies (Ethereum, DFINITY, EOS, NEO, Tezos, Cardano, etc) and the latest industry white paper reports from major platforms.
 
 View it on mobile device: [https://zire.github.io/blockchain-landscape](https://zire.github.io/blockchain-landscape/).
 
@@ -117,8 +117,21 @@ Funding
 
 ## INDUSTRY REPORTS
 
-- [2018, January - U.S.Department of Commerce, National Institute of Standards and Technology - Blockchain Technology Review](https://csrc.nist.gov/CSRC/media/Publications/nistir/8202/draft/documents/nistir8202-draft.pdf)
-- [2017, Q4 - Coindesk - State of Blockchain 2018](https://www.coindesk.com/research/state-blockchain-2018/)
+- [2018, April - Barclays - Crypto Technology: A Solution Still Seeking A Problem](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Barclays-201804-Crypto-technology-A-solution-still-seeking-a-problem.pdf)
+- [2018, April - Barclays - Seeking Value In Crypto Currencies](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Barclays-201804-Seeking-Value-In-Crypto-Currencies.pdf)
+- [2018, April - 华为 - 华为区块链白皮书](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E5%8D%8E%E4%B8%BA-201804-%E5%8D%8E%E4%B8%BA%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+- [2018, April - 日本金融厅 - 虚拟货币交易现状报告](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E6%97%A5%E6%9C%AC%E9%87%91%E8%9E%8D%E5%8E%85-201804-%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E7%8E%B0%E7%8A%B6%E6%8A%A5%E5%91%8A.pdf)
+- [2018, March - 京东 - 京东区块链技术实践白皮书2018](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E4%BA%AC%E4%B8%9C-201803-%E4%BA%AC%E4%B8%9C%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E7%99%BD%E7%9A%AE%E4%B9%A62018.pdf)
+- [2018, February - 鲸准研究院 - 2018中国区块链行业分析报告](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E9%B2%B8%E5%87%86%E7%A0%94%E7%A9%B6%E9%99%A2-201802-2018%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)
+- [2018, February - J.P.Morgan - Decrypting Cryptocurrencies](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/JPMorgan-201802-Decrypting-Cryptocurrencies.pdf)
+- [2018, January - Telegram - Ton White Paper](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Telegram-201801-TON.pdf)
+- [2018, January - Tencent - Blockchain Report 2018 (translated from Coindesk report)](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Tencent-201801-Blockchain-Report-2018.pdf)
+- [2018, January - U.S.Department of Commerce, National Institute of Standards and Technology - Blockchain Technology Review](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/NIST-201801-Blockchain-Technology-Overview.pdf)
+- [2017, December - Coindesk - State of Blockchain 2018](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Coindesk-201712-State-of-Blockchain-2018.pdf)
+- [2017, October - Deloitte - Evolution of Blockchain Technology](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Deloitte-201710-Evolution-of-blockchain-technology.pdf)
+- [2017, April - Tencent - 区块链白皮书](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Tencent-201704-%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+- [2016, October - 工信部 - 中国区块链技术和应用发展白皮书](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E5%B7%A5%E4%BF%A1%E9%83%A8-201610-%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%92%8C%E5%BA%94%E7%94%A8%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+- [2016, May - Goldman Sachs - Blockchain Putting Theory Into Practice](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Goldman-201605-Blockchain-Putting-Theory-Into-Practice.pdf)
 
 ## READING LIST
 
@@ -139,3 +152,7 @@ Here is a collection of some landmark articles written on blockchain and cryptoc
 
 - [Vitalik Buterin's personal website](https://vitalik.ca/)
 - [Coindesk](https://www.coindesk.com/)
+
+If you find this page helpful, a small donation in ETH will go a long way to encourage and remind me to spend time working on this project. You can send your Ethereum to: `0xae56b1f221a48f3dbbaaea110b049d5c1aba6efe`. Thank you!
+
+For any questions, suggestions, or useful links, please send a note to `contact@inturious.com`. 
