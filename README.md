@@ -1,4 +1,4 @@
-Welcome to Blockchain Landscape Overview! This is where you can find comparison among second-to-third generation cryptocurrencies (Ethereum, DFINITY, EOS, NEO, Tezos, Cardano, etc) and the latest industry white paper reports from major platforms.
+Welcome to Blockchain Landscape Overview! This is where you can find comparison among second-to-third generation cryptocurrencies (Ethereum, DFINITY, EOS, NEO, Tezos, Cardano, etc) and the latest industry white paper reports from major platforms and institutions. 
 
 View it on mobile device: [https://zire.github.io/blockchain-landscape](https://zire.github.io/blockchain-landscape/).
 
@@ -117,21 +117,29 @@ Funding
 
 ## INDUSTRY REPORTS
 
-- [2018, April - Barclays - Crypto Technology: A Solution Still Seeking A Problem](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Barclays-201804-Crypto-technology-A-solution-still-seeking-a-problem.pdf)
-- [2018, April - Barclays - Seeking Value In Crypto Currencies](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Barclays-201804-Seeking-Value-In-Crypto-Currencies.pdf)
-- [2018, April - 华为 - 华为区块链白皮书](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E5%8D%8E%E4%B8%BA-201804-%E5%8D%8E%E4%B8%BA%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
-- [2018, April - 日本金融厅 - 虚拟货币交易现状报告](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E6%97%A5%E6%9C%AC%E9%87%91%E8%9E%8D%E5%8E%85-201804-%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E7%8E%B0%E7%8A%B6%E6%8A%A5%E5%91%8A.pdf)
-- [2018, March - 京东 - 京东区块链技术实践白皮书2018](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E4%BA%AC%E4%B8%9C-201803-%E4%BA%AC%E4%B8%9C%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E7%99%BD%E7%9A%AE%E4%B9%A62018.pdf)
-- [2018, February - 鲸准研究院 - 2018中国区块链行业分析报告](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E9%B2%B8%E5%87%86%E7%A0%94%E7%A9%B6%E9%99%A2-201802-2018%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)
-- [2018, February - J.P.Morgan - Decrypting Cryptocurrencies](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/JPMorgan-201802-Decrypting-Cryptocurrencies.pdf)
-- [2018, January - Telegram - Ton White Paper](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Telegram-201801-TON.pdf)
-- [2018, January - Tencent - Blockchain Report 2018 (translated from Coindesk report)](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Tencent-201801-Blockchain-Report-2018.pdf)
-- [2018, January - U.S.Department of Commerce, National Institute of Standards and Technology - Blockchain Technology Review](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/NIST-201801-Blockchain-Technology-Overview.pdf)
-- [2017, December - Coindesk - State of Blockchain 2018](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Coindesk-201712-State-of-Blockchain-2018.pdf)
-- [2017, October - Deloitte - Evolution of Blockchain Technology](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Deloitte-201710-Evolution-of-blockchain-technology.pdf)
-- [2017, April - Tencent - 区块链白皮书](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Tencent-201704-%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
-- [2016, October - 工信部 - 中国区块链技术和应用发展白皮书](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E5%B7%A5%E4%BF%A1%E9%83%A8-201610-%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%92%8C%E5%BA%94%E7%94%A8%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
-- [2016, May - Goldman Sachs - Blockchain Putting Theory Into Practice](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Goldman-201605-Blockchain-Putting-Theory-Into-Practice.pdf)
+- [201804 - Barclays - Crypto Technology: A Solution Still Seeking A Problem](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Barclays-201804-Crypto-technology-A-solution-still-seeking-a-problem.pdf)
+- [201804 - Barclays - Seeking Value In Crypto Currencies](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Barclays-201804-Seeking-Value-In-Crypto-Currencies.pdf)
+- [201804 - 华为 - 华为区块链白皮书](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E5%8D%8E%E4%B8%BA-201804-%E5%8D%8E%E4%B8%BA%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+- [201804 - 日本金融厅 - 虚拟货币交易现状报告](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E6%97%A5%E6%9C%AC%E9%87%91%E8%9E%8D%E5%8E%85-201804-%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E7%8E%B0%E7%8A%B6%E6%8A%A5%E5%91%8A.pdf)
+- [201803 - 京东 - 京东区块链技术实践白皮书2018](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E4%BA%AC%E4%B8%9C-201803-%E4%BA%AC%E4%B8%9C%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E7%99%BD%E7%9A%AE%E4%B9%A62018.pdf)
+- [201802 - 鲸准研究院 - 2018中国区块链行业分析报告](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E9%B2%B8%E5%87%86%E7%A0%94%E7%A9%B6%E9%99%A2-201802-2018%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)
+- [201802 - J.P.Morgan - Decrypting Cryptocurrencies](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/JPMorgan-201802-Decrypting-Cryptocurrencies.pdf)
+- [201801 - 申万宏源 - 区块链技术发展回顾和展望](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E7%94%B3%E4%B8%87%E5%AE%8F%E6%BA%90-201801-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E5%9B%9E%E9%A1%BE%E5%92%8C%E5%B1%95%E6%9C%9B.pdf)
+- [201801 - 光大证券 - 区块链方兴未艾群雄逐鹿](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E5%85%89%E5%A4%A7-201801-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%96%B9%E5%85%B4%E6%9C%AA%E8%89%BE%E7%BE%A4%E9%9B%84%E9%80%90%E9%B9%BF.pdf)
+- [201801 - Telegram - Ton White Paper](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Telegram-201801-TON.pdf)
+- [201801 - Tencent - Blockchain Report 2018 (translated from Coindesk report)](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Tencent-201801-Blockchain-Report-2018.pdf)
+- [201801 - U.S.Department of Commerce - Blockchain Technology Review](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/NIST-201801-Blockchain-Technology-Overview.pdf)
+- [201712 - Coindesk - State of Blockchain 2018](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Coindesk-201712-State-of-Blockchain-2018.pdf)
+- [201710 - Deloitte - Evolution of Blockchain Technology](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Deloitte-201710-Evolution-of-blockchain-technology.pdf)
+- [201710 - Cambridge - Global Cryptocurrency Benchmarking Study](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Cambridge-20171012-Global-Cryptocurrency-Benchmarking-Study.pdf)
+- [201707 - Autonomous - Token Mania](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Autonomous-201707-Token-Mania%C2%94.pdf)
+- [201705 - 工信部 - 中国区块链技术和产业发展论坛标准](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E5%B7%A5%E4%BF%A1%E9%83%A8-201705-%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%92%8C%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B%E6%A0%87%E5%87%86%E5%8C%BA%E5%9D%97%E9%93%BE%E5%8F%82%E8%80%83%E6%9E%B6%E6%9E%84.pdf)
+- [201704 - Tencent - 区块链白皮书](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Tencent-201704-%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+- [201702 - Forklog - Bitcoin Regulation Global Impact National Lawmaking](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Forklog-201702-Bitcoin-Regulation-Global-Impact-National-Lawmaking.pdf)
+- [201610 - 工信部 - 中国区块链技术和应用发展白皮书](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E5%B7%A5%E4%BF%A1%E9%83%A8-201610-%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%92%8C%E5%BA%94%E7%94%A8%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+- [201608 - WEF - The Future of Financial Infrastructure](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/WEF-201608-The-Future-of-Financial-nfrastructure.pdf)
+- [201606 - 国泰君安 - 海外区块链产业风云榜](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89-201606-%E6%B5%B7%E5%A4%96%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A7%E4%B8%9A%E9%A3%8E%E4%BA%91%E6%A6%9C.pdf)
+- [201605 - Goldman Sachs - Blockchain Putting Theory Into Practice](https://s3-us-west-2.amazonaws.com/guizishanren/pdf/Goldman-201605-Blockchain-Putting-Theory-Into-Practice.pdf)
 
 ## READING LIST
 
