@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: Blockchain Landscape
 description: Overview and comparison of major blockchain platforms and cryptocurrencies
+plugins:
+  - jekyll-sitemap
